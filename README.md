@@ -1,7 +1,7 @@
-10MinutesEmail-Python-API
+10MinutesEmail
 ==========================
 
-<p>Author : Prakhar Gupta<p>
+<p>Author : PGW<p>
 <p>Status : Incomplete [09/12/2014]<p>
 A Simple Python API for 10minutesemail.com
 
